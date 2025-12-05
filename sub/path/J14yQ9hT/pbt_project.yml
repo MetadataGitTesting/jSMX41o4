@@ -1,0 +1,50 @@
+name: johnny.gislason
+description: task-force
+version: 0.5.658
+author: c8igejw5.qxmtkkm4@baok6gai.com
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: johnnygislason
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2025-12-05 22:46:32'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2025-12-05 22:46:32'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2025-12-05T22:46:32.424124Z'
+  name: plibMaven
+  version: 8.16.0-SNAPSHOT
+  id: '1412481362'
+  createdAt: '2025-12-05T22:46:32.424124Z'
+  type: plibMaven
+projectDependencies: {}
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
+projectConfigurations: {}
